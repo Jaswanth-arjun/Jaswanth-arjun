@@ -1,0 +1,11 @@
+# needed by the daily workflow (heatmap refresh):
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# portrait-only (run locally when you change your photo; not needed by the workflow):
+pillow
+numpy
+opencv-python-headless
+
+# optional, for busy backgrounds (large download + model file):
+# rembg

@@ -1,0 +1,11 @@
+# local python env
+.venv/
+__pycache__/
+*.pyc
+
+# portrait sources (regenerate locally, never commit)
+source-*.png
+source-photo*
+
+# scratch
+*.log
