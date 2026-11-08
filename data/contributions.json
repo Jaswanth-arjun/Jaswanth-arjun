@@ -1,42 +1,7 @@
 {
  "username": "Jaswanth-arjun",
- "fetched_at": "2026-11-07T13:05:54+00:00",
+ "fetched_at": "2026-11-08T13:28:06+00:00",
  "days": [
-  {
-   "date": "2025-11-02",
-   "count": 2,
-   "level": 0
-  },
-  {
-   "date": "2025-11-03",
-   "count": 3,
-   "level": 0
-  },
-  {
-   "date": "2025-11-04",
-   "count": 4,
-   "level": 0
-  },
-  {
-   "date": "2025-11-05",
-   "count": 5,
-   "level": 0
-  },
-  {
-   "date": "2025-11-06",
-   "count": 6,
-   "level": 0
-  },
-  {
-   "date": "2025-11-07",
-   "count": 4,
-   "level": 1
-  },
-  {
-   "date": "2025-11-08",
-   "count": 8,
-   "level": 0
-  },
   {
    "date": "2025-11-09",
    "count": 9,
@@ -1854,23 +1819,28 @@
   },
   {
    "date": "2026-11-07",
-   "count": 7,
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-11-08",
+   "count": 8,
    "level": 0
   }
  ],
  "stats": {
-  "total": 4873,
-  "current_streak": 371,
-  "longest_streak": 371,
+  "total": 4843,
+  "current_streak": 365,
+  "longest_streak": 365,
   "best_day": {
    "count": 167,
    "date": "2026-04-04"
   },
-  "first_day": "2025-11-02",
-  "last_day": "2026-11-07",
-  "active_days": 371,
+  "first_day": "2025-11-09",
+  "last_day": "2026-11-08",
+  "active_days": 365,
   "monthly": {
-   "2025-11": 461,
+   "2025-11": 429,
    "2025-12": 482,
    "2026-01": 408,
    "2026-02": 382,
@@ -1882,7 +1852,7 @@
    "2026-08": 404,
    "2026-09": 411,
    "2026-10": 57,
-   "2026-11": 13
+   "2026-11": 15
   },
   "_dates_ok": true
  }
